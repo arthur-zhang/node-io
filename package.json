@@ -5,6 +5,9 @@
   "keywords": [
     "io"
   ],
+  "dependencies": {
+    "ncp": "1.0.1"
+  },
   "author": {
     "name": "zhangya_no1@qq.com"
   },
