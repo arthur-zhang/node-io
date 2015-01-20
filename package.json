@@ -1,0 +1,21 @@
+{
+  "name": "node-io",
+  "description": "Commons io for node",
+  "version": "0.0.1",
+  "keywords": [
+    "io"
+  ],
+  "author": {
+    "name": "zhangya_no1@qq.com"
+  },
+  "_npmUser": {
+    "name": "zhangya_no1",
+    "email": "zhangya_no1@qq.com"
+  },
+  "maintainers": [
+    {
+      "name": "zhangya_no1",
+      "email": "zhangya_no1@qq.com"
+    }
+  ]
+}
