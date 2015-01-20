@@ -1,7 +1,7 @@
 {
   "name": "node-io",
   "description": "Commons io for node",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "index.js",
   "keywords": [
     "io"
